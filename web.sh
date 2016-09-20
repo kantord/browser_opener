@@ -2,7 +2,6 @@
 
 if [ -z $@ ]
 then
-    cd /home/kdani/repos/browser_opener
     cd ~/repos/arch-config/browser_opener
     make places.txt
     cat "places.txt"
