@@ -5,7 +5,6 @@ then
     cd /home/kdani/repos/browser_opener
     make places.txt
     cat "places.txt"
-    cd -
 else
     cd /home/kdani/repos/browser_opener
     URI=$@
