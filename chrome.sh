@@ -1,1 +1,1 @@
-google-chrome-stable $1
+google-chrome-stable --app=$1
