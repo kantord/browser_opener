@@ -1,1 +1,1 @@
-google-chrome-stable --app=$1
+chromium --app=$1
